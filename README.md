@@ -1,2 +1,2 @@
-# Virus-Database-Reupload
-Reuploaded from angelotrabuco
+# Virus-Database
+A list of viruses by me
